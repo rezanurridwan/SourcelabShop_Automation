@@ -6,7 +6,7 @@
    <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>''</initValue>
+      <initValue>'https://sourcelab.shop/'</initValue>
       <name>url</name>
       <protected>false</protected>
       <valueType>STRING</valueType>
